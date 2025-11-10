@@ -76,16 +76,21 @@ CRUD PRODUK
 
 ![Tambah Katalog Produk](https://github.com/Erviina/TP7DPBO2425C2/blob/main/dokumentasi/tambahProduk.gif?raw=true)
 
+
 ![Edit Katalog Produk](https://github.com/Erviina/TP7DPBO2425C2/blob/main/dokumentasi/editProduk.gif?raw=true)
 
+
 ![Hapus Katalog Produk](https://github.com/Erviina/TP7DPBO2425C2/blob/main/dokumentasi/hapusProduk.gif?raw=true)
+
 
 
 CRUD KATEGORI
 
 ![Tambah Kategori](https://github.com/Erviina/TP7DPBO2425C2/blob/main/dokumentasi/tambahKategori.gif?raw=true)
 
+
 ![Edit kategori](https://github.com/Erviina/TP7DPBO2425C2/blob/main/dokumentasi/editKategore.gif?raw=true)
+
 
 ![Hapus kategori](https://github.com/Erviina/TP7DPBO2425C2/blob/main/dokumentasi/hapusKategori.gif?raw=true)
 
@@ -95,7 +100,9 @@ CRUD SUPPLIER
 
 ![tambah supplier](https://github.com/Erviina/TP7DPBO2425C2/blob/main/dokumentasi/tambahSupplier.gif?raw=true)
 
+
 ![Edit supplier](https://github.com/Erviina/TP7DPBO2425C2/blob/main/dokumentasi/editSupplier.gif?raw=true)
+
 
 ![Hapus Supplier](https://github.com/Erviina/TP7DPBO2425C2/blob/main/dokumentasi/hapusSupplier.gif?raw=true)
 

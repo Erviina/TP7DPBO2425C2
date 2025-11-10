@@ -13,6 +13,9 @@ Website ini dibangun menggunakan PHP dan MySQL, dan semua proses pengambilan ser
 
 ## Struktur Database ##
 
+![ERD Katalog Produk](https://github.com/Erviina/TP7DPBO2425C2/blob/main/dokumentasi/ERD.png?raw=true)
+
+
 Database di project ini terdiri dari tiga tabel utama, yaitu produk, kategori, dan supplier. Setiap tabel punya fungsi masing-masing dan saling terhubung lewat foreign key.
 1. Tabel kategori
    berisi :
@@ -67,5 +70,42 @@ Semua logika utama dijalankan melalui file index.php, sedangkan operasi data dil
    - Hapus, menghapus data
    Tampilannya sederhana tapi cukup jelas dan mudah digunakan.
    
+## Dokumentasi ##
+
+
+Tambah produk
+![Tambah Katalog Produk](https://github.com/Erviina/TP7DPBO2425C2/blob/main/dokumentasi/tambahProduk.gif?raw=true)
+
+
+Edit/update produk
+![Edit Katalog Produk](https://github.com/Erviina/TP7DPBO2425C2/blob/main/dokumentasi/editProduk.gif?raw=true)
+
+
+Delete produk
+![Hapus Katalog Produk](https://github.com/Erviina/TP7DPBO2425C2/blob/main/dokumentasi/hapusProduk.gif?raw=true)
+
+
+Tambah Kategori
+![Tambah Kategori](https://github.com/Erviina/TP7DPBO2425C2/blob/main/dokumentasi/tambahKategori.gif?raw=true)
+
+
+Edit kategori
+![Edit kategori](https://github.com/Erviina/TP7DPBO2425C2/blob/main/dokumentasi/editKategore.gif?raw=true)
+
+
+Hapus Kategori
+![Hapus kategori](https://github.com/Erviina/TP7DPBO2425C2/blob/main/dokumentasi/hapusKategori.gif?raw=true)
+
+
+Tambah supplier
+![tambah supplier](https://github.com/Erviina/TP7DPBO2425C2/blob/main/dokumentasi/tambahSupplier.gif?raw=true)
+
+
+Edit Supplier
+![Edit supplier](https://github.com/Erviina/TP7DPBO2425C2/blob/main/dokumentasi/editSupplier.gif?raw=true)
+
+
+Hapus Supplier
+![Hapus Supplier](https://github.com/Erviina/TP7DPBO2425C2/blob/main/dokumentasi/hapusSupplier.gif?raw=true)
 
    

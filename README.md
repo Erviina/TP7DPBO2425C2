@@ -72,40 +72,48 @@ Semua logika utama dijalankan melalui file index.php, sedangkan operasi data dil
    
 ## Dokumentasi ##
 
-
 Tambah produk
+
 ![Tambah Katalog Produk](https://github.com/Erviina/TP7DPBO2425C2/blob/main/dokumentasi/tambahProduk.gif?raw=true)
 
 
 Edit/update produk
+
 ![Edit Katalog Produk](https://github.com/Erviina/TP7DPBO2425C2/blob/main/dokumentasi/editProduk.gif?raw=true)
 
 
 Delete produk
+
 ![Hapus Katalog Produk](https://github.com/Erviina/TP7DPBO2425C2/blob/main/dokumentasi/hapusProduk.gif?raw=true)
 
 
 Tambah Kategori
+
 ![Tambah Kategori](https://github.com/Erviina/TP7DPBO2425C2/blob/main/dokumentasi/tambahKategori.gif?raw=true)
 
 
 Edit kategori
+
 ![Edit kategori](https://github.com/Erviina/TP7DPBO2425C2/blob/main/dokumentasi/editKategore.gif?raw=true)
 
 
 Hapus Kategori
+
 ![Hapus kategori](https://github.com/Erviina/TP7DPBO2425C2/blob/main/dokumentasi/hapusKategori.gif?raw=true)
 
 
 Tambah supplier
+
 ![tambah supplier](https://github.com/Erviina/TP7DPBO2425C2/blob/main/dokumentasi/tambahSupplier.gif?raw=true)
 
 
 Edit Supplier
+
 ![Edit supplier](https://github.com/Erviina/TP7DPBO2425C2/blob/main/dokumentasi/editSupplier.gif?raw=true)
 
 
 Hapus Supplier
+
 ![Hapus Supplier](https://github.com/Erviina/TP7DPBO2425C2/blob/main/dokumentasi/hapusSupplier.gif?raw=true)
 
    

@@ -1,3 +1,5 @@
+Saya Ervina Kusnanda dengan NIM 2409082 mengerjakan TP 7 dalam mata kuliah Desain Pemogramana Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
+
 ## Tema Web ##
 
 
